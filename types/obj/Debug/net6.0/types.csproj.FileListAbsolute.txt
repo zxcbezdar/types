@@ -1,0 +1,15 @@
+C:\Users\Макс\source\repos\types\types\bin\Debug\net6.0\types.exe
+C:\Users\Макс\source\repos\types\types\bin\Debug\net6.0\types.deps.json
+C:\Users\Макс\source\repos\types\types\bin\Debug\net6.0\types.runtimeconfig.json
+C:\Users\Макс\source\repos\types\types\bin\Debug\net6.0\types.dll
+C:\Users\Макс\source\repos\types\types\bin\Debug\net6.0\types.pdb
+C:\Users\Макс\source\repos\types\types\obj\Debug\net6.0\types.csproj.AssemblyReference.cache
+C:\Users\Макс\source\repos\types\types\obj\Debug\net6.0\types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\types\types\obj\Debug\net6.0\types.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\types\types\obj\Debug\net6.0\types.AssemblyInfo.cs
+C:\Users\Макс\source\repos\types\types\obj\Debug\net6.0\types.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\types\types\obj\Debug\net6.0\types.dll
+C:\Users\Макс\source\repos\types\types\obj\Debug\net6.0\refint\types.dll
+C:\Users\Макс\source\repos\types\types\obj\Debug\net6.0\types.pdb
+C:\Users\Макс\source\repos\types\types\obj\Debug\net6.0\types.genruntimeconfig.cache
+C:\Users\Макс\source\repos\types\types\obj\Debug\net6.0\ref\types.dll
